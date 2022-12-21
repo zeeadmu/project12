@@ -1,0 +1,15 @@
+.movies__item {
+    margin-bottom: 21px;
+    width: 500px;
+}
+
+
+
+@media (min-width:  375px) and (max-width: 833px){
+
+    .movies__item {
+        margin-bottom: 21px;
+        width: 500px;
+    }
+
+}
